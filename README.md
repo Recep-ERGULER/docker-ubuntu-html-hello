@@ -6,5 +6,4 @@ basit bir HTML "Hello World" uygulaması çalıştırmak için hazırlanmıştı
 ## Kullanılan Teknolojiler
 - Docker
 - Ubuntu 22.04
-- Apache2
 - HTML
